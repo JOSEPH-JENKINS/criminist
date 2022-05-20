@@ -30,48 +30,12 @@
 							<img src="/img/david-von-diemar-jM6Y2nhsAtk-unsplash.jpg" class="w-full h-full object-cover" alt="">
 						</div>
 						<div class="details w-full">
-							<h1 class="font-display text-lg mb-5">Lorem ipsum</h1>
+							<h1 class="font-display text-lg mb-5">Cases Store</h1>
 							<p class="font-reg text-sm mb-5">
-								Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-								Tempore ab vero recusandae totam nostrum consectetur,
-								asperiores at laborum ducimus porro iure quaerat alias excepturi et,
-								tempora soluta provident facere expedita!
+								You want to solve some cases and be a true detective,
+								why not check out our cases by clicking the button below!
 							</p>
-							<button href="#" class="w-24 hover:bg-red-400 bg-red-700"><span class="text-xs font-display">Buy</span></button>
-						</div>
-					</div>
-				</div>
-				<div class="book mt-5 h-[48rem] w-full relative">
-					<div class="card w-full h-1/2 sm:w-1/2 sm:h-3/4 absolute sm:right-0">
-						<div class="image w-full h-full mb-7">
-							<img src="/img/david-von-diemar-jM6Y2nhsAtk-unsplash.jpg" class="w-full h-full object-cover" alt="">
-						</div>
-						<div class="details w-full">
-							<h1 class="font-display text-lg mb-5">Lorem ipsum</h1>
-							<p class="font-reg text-sm mb-5">
-								Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-								Tempore ab vero recusandae totam nostrum consectetur,
-								asperiores at laborum ducimus porro iure quaerat alias excepturi et,
-								tempora soluta provident facere expedita!
-							</p>
-							<button href="#" class="w-24 hover:bg-red-400 bg-red-700"><span class="text-xs font-display">Buy</span></button>
-						</div>
-					</div>
-				</div>
-				<div class="book mt-5 h-[48rem] w-full relative">
-					<div class="card w-full h-1/2 sm:w-1/2 sm:h-3/4 absolute">
-						<div class="image w-full h-full mb-7">
-							<img src="/img/david-von-diemar-jM6Y2nhsAtk-unsplash.jpg" class="w-full h-full object-cover" alt="">
-						</div>
-						<div class="details w-full">
-							<h1 class="font-display text-lg mb-5">Lorem ipsum</h1>
-							<p class="font-reg text-sm mb-5">
-								Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-								Tempore ab vero recusandae totam nostrum consectetur,
-								asperiores at laborum ducimus porro iure quaerat alias excepturi et,
-								tempora soluta provident facere expedita!
-							</p>
-							<button href="#" class="w-24 hover:bg-red-400 bg-red-700"><span class="text-xs font-display">Buy</span></button>
+							<a href="https://caseguessr.sellix.io"><button class="w-24 hover:bg-red-400 bg-red-700"><span class="text-xs font-display">Buy</span></button></a>
 						</div>
 					</div>
 				</div>
