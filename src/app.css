@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+	font-family: NeutralBold;
+	src: url("./font/NeutralFace-Bold.otf");
+}
+
+@font-face{
+	font-family: NeutralFace;
+	src: url("./font/NeutralFace.otf");
+}
